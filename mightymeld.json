@@ -1,0 +1,7 @@
+{
+  "run": "npm run start:mightymeld",
+  "include": ["src", ".prettierrc.json"],
+  "web_server_url": "http://localhost:3000",
+  "prefab_dir": "src/prefabs",
+  "run_prettier": true
+}
